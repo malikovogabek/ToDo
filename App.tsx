@@ -7,6 +7,7 @@ export default function App() {
       <View style={styles.container}>
         <Text style={styles.text}>Og'abek</Text>
         <Text style={styles.text1}>Malikov</Text>
+        <Text>hsdbhfbhsdchsbchbjc</Text>
         <StatusBar style="auto" />
       </View>
     </SafeAreaView>
